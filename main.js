@@ -7,3 +7,11 @@ function ageValidation (age) {
 
   return 'You shall not pass'
 }
+
+function agePrompt () {
+  const age = prompt('What is your age?');
+
+  alert(ageValidation(age));
+}
+
+agePrompt();
