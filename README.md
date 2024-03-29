@@ -8,12 +8,11 @@ Here is the assignment and my comments on each (in Swedish)
 För betyg G:
 - [x] Använda grudläggande kommandon i git såsom add, commit och merge.
 
-
-
 - [x] Ni behöver ha använt minst två nya branches.
 Jag har använt mig av 5 branches (inkl main).
 
 - [x] Ni behöver ha gjort minst en merge till main (som är den branch jag kommer att rätta).
+Dev blev mergead till main.
 
 
 
