@@ -2,6 +2,8 @@
 With this assignment, I solely focus on completing
 the tasks given by my teacher. Nothing more and nothing else.
 
+The aim with this project is to complete Git-related tasks.
+
 Here is the assignment and my comments on each (in Swedish)
 
 
